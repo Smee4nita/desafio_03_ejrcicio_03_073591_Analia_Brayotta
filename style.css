@@ -1,0 +1,50 @@
+#logo-disney {
+    width: 300px;
+    margin-left: 30%;
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    color: #c875ab;
+    font-size: 40px;
+    margin-left: 10%;
+}
+
+h2 {
+    font-family: 'Lucida Sans Unicode';
+    color: #c875ab;
+}
+
+body {
+    background-color: white;
+}
+
+p {
+    color: #27588d;
+    font-family: 'Lucida Grande';
+}
+
+.ajustar-foto {
+    display: inline;
+    width: 400px;
+}
+
+.imagen-a-la-derecha {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.imagen-a-la-izquierda {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+#ajustar-h2 {
+    margin-left: 31%;
+}
+
+#ancho-total {
+    width: 100%;
+}
